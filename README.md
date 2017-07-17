@@ -1,13 +1,11 @@
 ## Pi-Cartridge-Resetter
-This repository is a collection of how I build my resetter and which sources & hardware I used.
+So our school is paying 200$ per catridge which our Stratasys Dimension Elite is using. I knew the filament itself costs way less and I found bvanheu's library. Sneaks Hacks StratHacker is nice, but the documentation isn't that good and I'm missing a few things like using a pi zero to make it smaller or preselectinhg some settings before rewriting the eeprom.
 
-Firstly a big shoutout to **haveblue** who wrote a perfectly detailed guide to get started. This wouldn't be possible without the basics he's giving in his guide. Furthermore I've to honor **woutervddn** who wrote basic bash scripts which automate the steps haveblue is describing in his guide. I used them to easily access the eeprom data. And of course I've to give credit to **bvanheu** for making decrypting these eeproms simply through his library.
+So I decided to start this project to build myself my own Pi Cartridge Resetter. If you want to help, please contact me. I really need help in python :)
 
 - [Stratasys EEPROM hack revisted](http://haveblue.org/?p=1988)
 - [woutervddn/pi_dimension_eeprom_tool](https://github.com/woutervddn/pi_dimension_eeprom_tool)
 - [bvanheu/stratasys](https://github.com/bvanheu/stratasys)
-
-IMAGE
 
 ---
 ### Material
