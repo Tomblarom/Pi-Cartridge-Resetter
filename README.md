@@ -3,6 +3,10 @@ So our school is paying 200$ per catridge which our Stratasys Dimension Elite is
 
 So I decided to start this project to build myself my own Pi Cartridge Resetter. If you want to help, please contact me. I really need help in python :)
 
+https://www.thingiverse.com/thing:2439831
+
+### Resources
+
 - [Stratasys EEPROM hack revisted](http://haveblue.org/?p=1988)
 - [woutervddn/pi_dimension_eeprom_tool](https://github.com/woutervddn/pi_dimension_eeprom_tool)
 - [bvanheu/stratasys](https://github.com/bvanheu/stratasys)
