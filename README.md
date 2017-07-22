@@ -10,6 +10,7 @@ https://www.thingiverse.com/thing:2439831
 - [Stratasys EEPROM hack revisted](http://haveblue.org/?p=1988)
 - [woutervddn/pi_dimension_eeprom_tool](https://github.com/woutervddn/pi_dimension_eeprom_tool)
 - [bvanheu/stratasys](https://github.com/bvanheu/stratasys)
+- [agnunez/RaspberryPiLcdMenu](https://github.com/agnunez/RaspberryPiLcdMenu)
 
 ---
 ### Material
