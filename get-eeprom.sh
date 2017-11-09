@@ -47,4 +47,6 @@ if [ "$missingEeprom" = true ]; then
 	if [ -d $tmpDir ]; then
 		rm -rf $tmpDir
 	fi
+else
+    ls /tmp/eepromWriter
 fi
